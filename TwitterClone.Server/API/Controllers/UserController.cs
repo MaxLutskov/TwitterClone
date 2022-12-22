@@ -21,24 +21,24 @@ namespace TwitterClone.Server.API.Controllers
         [HttpPost("create"), Authorize]
         public async Task<IActionResult> CreateAsync(UserModel model)
         {
-            if (model != null) {
-                await repository.CreateAsync(model);
-                return Ok(model);
-            }
-            return NoContent();
+            if (model == null)
+                return NoContent();
+
+            await repository.CreateAsync(model);
+            return Ok(model); 
         }
 
         [HttpPut("update"), Authorize]
         public async Task<IActionResult> UpdateAsync(UserModel model)
         {
             if (model == null)
-                return new JsonResult(NoContent());
+                return NoContent();
 
             var oldModel = await repository.GetByIdAsync(model.Id);
             if (model == oldModel)
-                return new JsonResult(Problem("Models are same"));
+                return Problem("Models are same");
 
-            repository.UpdateAsync(model);
+            repository.Update(model);
             return Ok(model);
         }
 

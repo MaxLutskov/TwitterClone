@@ -5,7 +5,7 @@ using TwitterClone.Business.Extension;
 using TwitterClone.Business.IRepositories;
 using TwitterClone.Business.IServices;
 using TwitterClone.Business.Models;
-using TwitterClone.Server.API.Controllers.DTO;
+using TwitterClone.Server.API.Controllers.DTO.Users;
 
 namespace TwitterClone.Server.API.Controllers
 {

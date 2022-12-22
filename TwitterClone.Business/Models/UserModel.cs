@@ -16,7 +16,7 @@ namespace TwitterClone.Business.Models
         public string Salt { get; set; } = "";
 
         [Required, Column(TypeName = "varchar(200)")]
-        public string IdentityName { get; set; } = "";
+        public string UniqueName { get; set; } = "";
 
         [Required, Column(TypeName = "varchar(200)")]
         public string Email { get; set; } = "";
@@ -26,6 +26,9 @@ namespace TwitterClone.Business.Models
 
         [Column(TypeName = "date")]
         public DateTime BirthDate { get ; set; }
+
+        [Column(TypeName = "bit")]
+        public bool IsAdmin { get; set; } = false;
 
         public List<TweetModel>? Tweets { get; set; }
     }

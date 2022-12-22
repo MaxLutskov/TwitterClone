@@ -8,6 +8,10 @@ namespace TwitterClone.Business.Models
     {
         [Required, Column(TypeName = "varchar(50)")]
         public Guid UserId { get; set; }
+        [Column(TypeName = "varchar(200)")]
+        public string UserName { get; set; } = string.Empty;
+        [Column(TypeName = "varchar(200)")]
+        public string UniqueName { get; set; } = string.Empty;
 
         [Required, Column(TypeName = "varchar(500)")]
         public string Content { get; set; } = "";

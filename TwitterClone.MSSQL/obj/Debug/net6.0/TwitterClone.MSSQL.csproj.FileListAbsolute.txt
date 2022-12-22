@@ -1,0 +1,17 @@
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.MSSQL.deps.json
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.MSSQL.runtimeconfig.json
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.MSSQL.dll
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.MSSQL.pdb
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.Business.dll
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.Business.pdb
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.csproj.AssemblyReference.cache
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.AssemblyInfoInputs.cache
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.AssemblyInfo.cs
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.csproj.CoreCompileInputs.cache
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.csproj.CopyComplete
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.dll
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\refint\TwitterClone.MSSQL.dll
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.pdb
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.genruntimeconfig.cache
+D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\ref\TwitterClone.MSSQL.dll

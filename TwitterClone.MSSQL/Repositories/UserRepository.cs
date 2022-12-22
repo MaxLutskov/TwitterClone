@@ -8,8 +8,8 @@ namespace TwitterCloneMSSQL.Repositories
 {
     public class UserRepository : IUserRepository
     {
-        private readonly UserContext db;
-        public UserRepository(UserContext db)
+        private readonly DataContext db;
+        public UserRepository(DataContext db)
         {
             this.db = db;
         }
@@ -20,7 +20,7 @@ namespace TwitterCloneMSSQL.Repositories
             model.UpdatedAt = DateTime.Now;
             model.Password = model.Password.CreateMD5WithSalt(out var salt);
             model.Salt = salt;
-            model.IdentityName = "user" + Guid.NewGuid().ToString();
+            model.UniqueName = "user" + Guid.NewGuid().ToString();
 
             await db.Users.AddAsync(model);
             db.SaveChanges();
@@ -29,7 +29,7 @@ namespace TwitterCloneMSSQL.Repositories
 
         public async void Delete(Guid id)
         {
-            var user = await db.Users.FirstOrDefaultAsync(u => u.Id == id);
+            var user = await GetByIdAsync(id);
             if (user == null)
                 throw new NullReferenceException();
             db.Users.Remove(user);
@@ -60,9 +60,10 @@ namespace TwitterCloneMSSQL.Repositories
             return user;
         }
 
-        public UserModel UpdateAsync(UserModel model)
+        public UserModel Update(UserModel model)
         {
             db.Users.Update(model);
+            db.SaveChanges();
             return model;
         }
     }

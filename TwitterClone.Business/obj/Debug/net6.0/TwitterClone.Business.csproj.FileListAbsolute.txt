@@ -1,0 +1,12 @@
+D:\Desktop\TwitterClone\TwitterClone.Business\bin\Debug\net6.0\TwitterClone.Business.deps.json
+D:\Desktop\TwitterClone\TwitterClone.Business\bin\Debug\net6.0\TwitterClone.Business.dll
+D:\Desktop\TwitterClone\TwitterClone.Business\bin\Debug\net6.0\TwitterClone.Business.pdb
+D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.csproj.AssemblyReference.cache
+D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.AssemblyInfoInputs.cache
+D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.AssemblyInfo.cs
+D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.csproj.CoreCompileInputs.cache
+D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.dll
+D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\refint\TwitterClone.Business.dll
+D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.pdb
+D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\ref\TwitterClone.Business.dll

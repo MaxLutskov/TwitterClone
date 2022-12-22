@@ -16,7 +16,11 @@ namespace TwitterClone.Server.Services
             new Claim(ClaimTypes.Name, user.UserName),
             new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
             new Claim(ClaimTypes.Email, user.Email)
-            };
+             };
+
+            if (user.IsAdmin)
+                claims.Append(new Claim(ClaimTypes.Role, "Admin"));
+
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key));
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256Signature);
             var tokenDescriptor = new JwtSecurityToken(claims: claims,

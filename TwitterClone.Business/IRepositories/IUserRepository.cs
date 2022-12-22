@@ -8,7 +8,7 @@ namespace TwitterClone.Business.IRepositories
         public Task<UserModel> GetByEmailAsync(string email);
         public Task<IEnumerable<UserModel>> GetAllAsync();
         public Task<UserModel> CreateAsync(UserModel model);
-        public UserModel UpdateAsync(UserModel model);
+        public UserModel Update(UserModel model);
         public void Delete(Guid id);
     }
 }

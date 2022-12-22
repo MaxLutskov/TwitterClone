@@ -11,7 +11,7 @@ using TwitterClone.MSSQL.EFConexts;
 
 namespace TwitterClone.MSSQL.Migrations
 {
-    [DbContext(typeof(UserContext))]
+    [DbContext(typeof(DataContext))]
     [Migration("20221205093952_init")]
     partial class init
     {

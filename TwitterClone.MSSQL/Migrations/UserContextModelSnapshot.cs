@@ -10,7 +10,7 @@ using TwitterClone.MSSQL.EFConexts;
 
 namespace TwitterClone.MSSQL.Migrations
 {
-    [DbContext(typeof(UserContext))]
+    [DbContext(typeof(DataContext))]
     partial class UserContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
@@ -41,6 +41,10 @@ namespace TwitterClone.MSSQL.Migrations
                     b.Property<string>("RootTweetId")
                         .HasColumnType("varchar(50)");
 
+                    b.Property<string>("UniqueName")
+                        .IsRequired()
+                        .HasColumnType("varchar(200)");
+
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("smalldatetime");
 
@@ -50,6 +54,10 @@ namespace TwitterClone.MSSQL.Migrations
 
                     b.Property<string>("UserModelId")
                         .HasColumnType("varchar(50)");
+
+                    b.Property<string>("UserName")
+                        .IsRequired()
+                        .HasColumnType("varchar(200)");
 
                     b.HasKey("Id");
 
@@ -80,15 +88,18 @@ namespace TwitterClone.MSSQL.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(200)");
 
-                    b.Property<string>("IdentityName")
-                        .IsRequired()
-                        .HasColumnType("varchar(200)");
+                    b.Property<bool>("IsAdmin")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Password")
                         .IsRequired()
                         .HasColumnType("varchar(200)");
 
                     b.Property<string>("Salt")
+                        .IsRequired()
+                        .HasColumnType("varchar(200)");
+
+                    b.Property<string>("UniqueName")
                         .IsRequired()
                         .HasColumnType("varchar(200)");
 
