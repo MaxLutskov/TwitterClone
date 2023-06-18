@@ -10,3 +10,15 @@ D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Busi
 D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\refint\TwitterClone.Business.dll
 D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.pdb
 D:\Desktop\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\ref\TwitterClone.Business.dll
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\bin\Debug\net6.0\TwitterClone.Business.deps.json
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\bin\Debug\net6.0\TwitterClone.Business.dll
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\bin\Debug\net6.0\TwitterClone.Business.pdb
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.csproj.AssemblyReference.cache
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.AssemblyInfoInputs.cache
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.AssemblyInfo.cs
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.csproj.CoreCompileInputs.cache
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.dll
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\refint\TwitterClone.Business.dll
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\TwitterClone.Business.pdb
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.Business\obj\Debug\net6.0\ref\TwitterClone.Business.dll

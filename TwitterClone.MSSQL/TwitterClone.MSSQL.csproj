@@ -19,4 +19,8 @@
     <ProjectReference Include="..\TwitterClone.Business\TwitterClone.Business.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

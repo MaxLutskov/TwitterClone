@@ -7,9 +7,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitterClone.Business", "Tw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitterClone.Server", "TwitterClone.Server\TwitterClone.Server.csproj", "{904C6B30-6394-4E39-8555-9D32FCCD6FB4}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "TwitterClone.Client", "TwitterClone.Client\TwitterClone.Client.esproj", "{DD9592DC-4F69-4D15-A135-1193E0FF0E1C}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitterClone.MSSQL", "TwitterClone.MSSQL\TwitterClone.MSSQL.csproj", "{B155A746-9FAA-455D-8D38-764F0729A327}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "react_client", "react_client\", "{61430294-33EA-44E9-8FD3-A86AD382AC36}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53336"
+		Debug.AspNetCompiler.PhysicalPath = "react_client\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53336\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53336"
+		Release.AspNetCompiler.PhysicalPath = "react_client\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53336\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53336"
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,16 +43,14 @@ Global
 		{904C6B30-6394-4E39-8555-9D32FCCD6FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904C6B30-6394-4E39-8555-9D32FCCD6FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904C6B30-6394-4E39-8555-9D32FCCD6FB4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD9592DC-4F69-4D15-A135-1193E0FF0E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD9592DC-4F69-4D15-A135-1193E0FF0E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD9592DC-4F69-4D15-A135-1193E0FF0E1C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{DD9592DC-4F69-4D15-A135-1193E0FF0E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD9592DC-4F69-4D15-A135-1193E0FF0E1C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD9592DC-4F69-4D15-A135-1193E0FF0E1C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{B155A746-9FAA-455D-8D38-764F0729A327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B155A746-9FAA-455D-8D38-764F0729A327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B155A746-9FAA-455D-8D38-764F0729A327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B155A746-9FAA-455D-8D38-764F0729A327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61430294-33EA-44E9-8FD3-A86AD382AC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61430294-33EA-44E9-8FD3-A86AD382AC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61430294-33EA-44E9-8FD3-A86AD382AC36}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{61430294-33EA-44E9-8FD3-A86AD382AC36}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

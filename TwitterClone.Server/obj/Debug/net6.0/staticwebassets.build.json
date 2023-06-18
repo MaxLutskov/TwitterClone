@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Nzzk8mY+iaWkeTJTi7fMO0ag+9KBpMksikoJ45O+v88=",
+  "Hash": "K6bAjytWfZGVK82ENxhUSa2ZgISlJPtdwB8pY69yzTE=",
   "Source": "TwitterClone.Server",
   "BasePath": "_content/TwitterClone.Server",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TwitterClone.Server\\wwwroot",
       "Source": "TwitterClone.Server",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\asset-manifest.json",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\asset-manifest.json",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
       "RelativePath": "asset-manifest.json",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\asset-manifest.json"
     },
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\favicon.ico",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\index.html",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\logo192.png",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\logo192.png",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
       "RelativePath": "logo192.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\logo192.png"
     },
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\logo512.png",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\logo512.png",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
       "RelativePath": "logo512.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\logo512.png"
     },
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\manifest.json",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\manifest.json",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
       "RelativePath": "manifest.json",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\manifest.json"
     },
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\robots.txt",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\robots.txt",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
       "RelativePath": "robots.txt",
       "AssetKind": "All",
@@ -136,12 +136,12 @@
       "OriginalItemSpec": "wwwroot\\robots.txt"
     },
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\static\\css\\main.319ba3db.css",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\static\\css\\main.347c06c4.css",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
-      "RelativePath": "static/css/main.319ba3db.css",
+      "RelativePath": "static/css/main.347c06c4.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\static\\css\\main.319ba3db.css"
+      "OriginalItemSpec": "wwwroot\\static\\css\\main.347c06c4.css"
     },
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\static\\css\\main.319ba3db.css.map",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\static\\css\\main.347c06c4.css.map",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
-      "RelativePath": "static/css/main.319ba3db.css.map",
+      "RelativePath": "static/css/main.347c06c4.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\static\\css\\main.319ba3db.css.map"
+      "OriginalItemSpec": "wwwroot\\static\\css\\main.347c06c4.css.map"
     },
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\static\\js\\main.385745b3.js",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\static\\js\\main.c5986c14.js",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
-      "RelativePath": "static/js/main.385745b3.js",
+      "RelativePath": "static/js/main.c5986c14.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\static\\js\\main.385745b3.js"
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.c5986c14.js"
     },
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\static\\js\\main.385745b3.js.LICENSE.txt",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\static\\js\\main.c5986c14.js.LICENSE.txt",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
-      "RelativePath": "static/js/main.385745b3.js.LICENSE.txt",
+      "RelativePath": "static/js/main.c5986c14.js.LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\static\\js\\main.385745b3.js.LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.c5986c14.js.LICENSE.txt"
     },
     {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\static\\js\\main.385745b3.js.map",
+      "Identity": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\static\\js\\main.c5986c14.js.map",
       "SourceId": "TwitterClone.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
       "BasePath": "_content/TwitterClone.Server",
-      "RelativePath": "static/js/main.385745b3.js.map",
+      "RelativePath": "static/js/main.c5986c14.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,24 +218,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\static\\js\\main.385745b3.js.map"
-    },
-    {
-      "Identity": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\TWEET.jpg",
-      "SourceId": "TwitterClone.Server",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\wwwroot\\",
-      "BasePath": "_content/TwitterClone.Server",
-      "RelativePath": "TWEET.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\TWEET.jpg"
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.c5986c14.js.map"
     }
   ]
 }

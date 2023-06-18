@@ -15,3 +15,20 @@ D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\refint\TwitterClone.
 D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.pdb
 D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.genruntimeconfig.cache
 D:\Desktop\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\ref\TwitterClone.MSSQL.dll
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.MSSQL.deps.json
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.MSSQL.runtimeconfig.json
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.MSSQL.dll
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.MSSQL.pdb
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.Business.dll
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\bin\Debug\net6.0\TwitterClone.Business.pdb
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.csproj.AssemblyReference.cache
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.AssemblyInfoInputs.cache
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.AssemblyInfo.cs
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.csproj.CoreCompileInputs.cache
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.csproj.CopyComplete
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.dll
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\refint\TwitterClone.MSSQL.dll
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.pdb
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\TwitterClone.MSSQL.genruntimeconfig.cache
+C:\Users\lutsk\OneDrive\Рабочий стол\TwitterClone\TwitterClone.MSSQL\obj\Debug\net6.0\ref\TwitterClone.MSSQL.dll

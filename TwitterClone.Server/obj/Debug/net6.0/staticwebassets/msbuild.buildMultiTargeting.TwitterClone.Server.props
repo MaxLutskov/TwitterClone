@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TwitterClone.Server.props" />
+</Project>

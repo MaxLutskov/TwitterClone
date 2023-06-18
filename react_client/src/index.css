@@ -1,0 +1,33 @@
+
+.btn{
+    background-color: #720180;
+    border: #CCC0CC;
+    color: #FCE8FF;
+}
+
+.btn:hover{
+    background-color: #c802e2;
+}
+
+.nav{
+    background-color: #720180;
+    color: #FCE8FF;
+    height: 100vh;
+    border-right: solid 2px #9f03b3;
+    font-size: x-large;
+}
+
+.nav-link{
+    color: #FCE8FF;
+}
+
+.nav-link:hover{
+    background-color: #4c0155;
+    border-radius: 40%;
+    color: #FCE8FF;
+}
+
+.container-fluid{
+    background-color: #720180;
+    color: #FCE8FF;
+}

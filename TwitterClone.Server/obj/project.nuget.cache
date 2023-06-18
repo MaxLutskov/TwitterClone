@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WWOe2KSZxRrok3udNBhZScMBZT28lEpDKdHJ1otJiyjCJmKbmGlpp3I0L/j2Ch2slThxIzq7vZtVpuqPAujcJg==",
+  "dgSpecHash": "1qOr/xojsw1i4GU5McKHtgVENISxBcSVnYLO1m4OBv1cS5eXcVPbkYZHMi6MSyoBEQI16jcJKFQ+FB+kOlxeyg==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\TwitterClone\\TwitterClone.Server\\TwitterClone.Server.csproj",
+  "projectFilePath": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Server\\TwitterClone.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lutsk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lutsk\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

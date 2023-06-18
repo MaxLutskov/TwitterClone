@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KuB3QScA/Z0NdrVh/81lhvEpomGSAmeKwmvzEL7QX3G3xTPcYVQ4YXXs4+VeQS583XCy7k2M/hEAYOzGsAVRbA==",
+  "dgSpecHash": "YFDJgq40quI8Ll/aeQk7Yg06/jMRBikU488XSaiql27whwYe8UIdEsc9GP6EQZ6eZlbaaCixp8a7WMFPmgIpFQ==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\TwitterClone\\TwitterClone.MSSQL\\TwitterClone.MSSQL.csproj",
+  "projectFilePath": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.MSSQL\\TwitterClone.MSSQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lutsk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lutsk\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

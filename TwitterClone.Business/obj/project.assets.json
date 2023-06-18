@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\TwitterClone\\TwitterClone.Business\\TwitterClone.Business.csproj",
+      "projectUniqueName": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Business\\TwitterClone.Business.csproj",
       "projectName": "TwitterClone.Business",
-      "projectPath": "D:\\Desktop\\TwitterClone\\TwitterClone.Business\\TwitterClone.Business.csproj",
+      "projectPath": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Business\\TwitterClone.Business.csproj",
       "packagesPath": "C:\\Users\\lutsk\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\TwitterClone\\TwitterClone.Business\\obj\\",
+      "outputPath": "C:\\Users\\lutsk\\OneDrive\\Рабочий стол\\TwitterClone\\TwitterClone.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lutsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
