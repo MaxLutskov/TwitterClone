@@ -58,7 +58,7 @@ namespace TwitterClone.Server.API.Controllers
         public IActionResult Delete(Guid id)
         {
             tweetRepository.Delete(id);
-            return Ok("Object deleted");
+            return Ok(id);
         }
 
         [HttpGet("{id}"), Authorize]

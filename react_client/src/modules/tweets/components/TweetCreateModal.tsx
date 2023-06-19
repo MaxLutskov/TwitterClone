@@ -2,7 +2,7 @@ import { ChangeEventHandler, FC, useState } from "react"
 import { Button, Form, Modal } from "react-bootstrap"
 import { useAppDispatch } from "../../../store/store";
 import { tweetsActions } from "../tweetsSlice";
-import { TweetType } from "../../../components/Tweet";
+import { TweetType } from "./Tweet";
 
 export const TweetCreateModal:FC = () => {
 
@@ -16,7 +16,7 @@ export const TweetCreateModal:FC = () => {
 
 
     const [tweet, setTweet] = useState<TweetType>({id: "", createdAt: "", updatedAt: "", userId: "1", userName: "Max",
-    uniqueName: "zhmax", content: "", rootTweet: null, tweets: null, likes: 0})
+    uniqueName: "zhmax", content: "", likes: 0})
 
 
     const handleChange: ChangeEventHandler<HTMLInputElement | HTMLTextAreaElement> = (event) => {
@@ -25,7 +25,7 @@ export const TweetCreateModal:FC = () => {
     }
 
     const createTweet = () => {
-        dispatch(tweetsActions.addTweet(tweet))
+        dispatch(tweetsActions.addTweetAsync(tweet))
     }
 
     return (

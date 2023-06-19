@@ -8,10 +8,10 @@ export const loginEpic: Epic<ReturnType<typeof authActions.loginAsync>, any, Roo
     action$.pipe(
         ofType(authActions.loginAsync.type),
         mergeMap(action =>
-            from(API.post<LoginInput, string>('auth/login', action.payload))
+            from(API.post<LoginInput, {data: {generatedToken: string, id: string}}>('auth/login', action.payload))
             .pipe(
                 mergeMap(response => [
-                    authActions.setAuthedUser(response)
+                    authActions.setAuthedUser(response.data)
                 ]),
                 catchError(error => of())
             ),

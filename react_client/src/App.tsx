@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import {Button, Col, Container, Row } from 'react-bootstrap';
 import { SideBar } from './components/SideBar';
-import { TweetList } from './components/TweetList';
+import { TweetList } from './modules/tweets/components/TweetList';
 import { useAppSelector } from './store/store';
 import { useDispatch } from 'react-redux';
 import { tweetsActions } from './modules/tweets/tweetsSlice';

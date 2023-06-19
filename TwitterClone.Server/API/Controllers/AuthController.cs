@@ -43,7 +43,7 @@ namespace TwitterClone.Server.API.Controllers
             if (generatedToken == null)
                 return BadRequest();
 
-            return Ok(generatedToken);
+            return Ok(new {generatedToken, validUser.Id});
         }
 
         [HttpPost("register")]

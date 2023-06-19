@@ -1,5 +1,6 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit'
-import { TweetType } from '../../components/Tweet'
+import { TweetType } from '../tweets/components/Tweet'
+import { access } from 'fs'
 
 type AuthState = {
   userId: string,
@@ -28,8 +29,10 @@ export const authSlice = createSlice({
     initialState,
     reducers: {
         loginAsync: (state, action: PayloadAction<LoginInput>) => state,
-        setAuthedUser: (state, action: PayloadAction<string>) => {
-            state.token = action.payload
+        setAuthedUser: (state, action: PayloadAction<{generatedToken: string, id: string}>) => {
+            console.log(action.payload.generatedToken)
+            state.token = action.payload.generatedToken
+            state.userId = action.payload.id
         },
         registerAsync: (state, action: PayloadAction<RegisterInput>) => state,
         register: (state) => state,
